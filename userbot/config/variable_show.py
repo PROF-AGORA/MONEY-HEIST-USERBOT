@@ -1,5 +1,6 @@
 variable_list = [
     "ALIVE_MSG",
+    "PROF_AGORA_PIC",
     "ALIVE_PIC",
     "AWAKE_PIC",
     "AWAKE_MSG",
