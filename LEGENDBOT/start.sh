@@ -1,4 +1,4 @@
-#   Copyright (C) 2021 LEGEND-OS
+#   Copyright (C) 2021 PROF-AGORA
 #
 #   Poject VΛDΣЯ is free software: 
 #   you can redistribute it and/or modify it under the terms of the GNU General Public License 
@@ -15,21 +15,10 @@
 
 
 echo """
- 
-╭╮╱╱╭━━━┳━━━┳━━━┳━╮╱╭┳━━━╮
-┃┃╱╱┃╭━━┫╭━╮┃╭━━┫┃╰╮┃┣╮╭╮┃
-┃┃╱╱┃╰━━┫┃╱╰┫╰━━┫╭╮╰╯┃┃┃┃┃
-┃┃╱╭┫╭━━┫┃╭━┫╭━━┫┃╰╮┃┃┃┃┃┃
-┃╰━╯┃╰━━┫╰┻━┃╰━━┫┃╱┃┃┣╯╰╯┃
-╰━━━┻━━━┻━━━┻━━━┻╯╱╰━┻━━━╯
-╭━━╮╭━━━┳━━━━╮
-┃╭╮┃┃╭━╮┃╭╮╭╮┃
-┃╰╯╰┫┃╱┃┣╯┃┃╰╯
-┃╭━╮┃┃╱┃┃╱┃┃
-┃╰━╯┃╰━╯┃╱┃┃
-╰━━━┻━━━╯╱╰╯
+BELLA CIAO BELLA CIAO BELLA CIAO 
+CIAO CIAO CIAO
 """
-rm -rf LEGENDUSERBOT
-git clone https://github.com/The-LegendBot/LEGENDUSERBOT
-cd LEGENDUSERBOT
+rm -rf MONEY-HEIST-BOT
+git clone https://github.com/PROF-AGORA/MONEY-HEIST-BOT
+cd MONEY-HEIST-BOT
 python3 -m userbot
