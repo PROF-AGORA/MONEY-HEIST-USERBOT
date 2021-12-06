@@ -18,7 +18,7 @@ echo """
 BELLA CIAO BELLA CIAO BELLA CIAO 
 CIAO CIAO CIAO
 """
-rm -rf MONEY-HEIST-BOT
-git clone https://github.com/PROF-AGORA/MONEY-HEIST-BOT
-cd MONEY-HEIST-BOT
+rm -rf MONEY-HEIST-USERBOT
+git clone https://github.com/PROF-AGORA/MONEY-HEIST-USERBOT
+cd MONEY-HEIST-USERBOT
 python3 -m userbot
